@@ -1,0 +1,473 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.4f1 (0abb6314276a) revision 703331'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.928; Version 2009; 64bit' Language: 'de' Physical Memory: 65445 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Git/VirtualCilia/VirtualCilia
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54085
+Successfully changed project path to: D:/Git/VirtualCilia/VirtualCilia
+D:/Git/VirtualCilia/VirtualCilia
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 25.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Git/VirtualCilia/VirtualCilia/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 Ti (ID=0x1b06)
+    Vendor:   
+    VRAM:     11127 MB
+    Driver:   27.21.14.6589
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56464
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.010530 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 28.06 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.010 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001183 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.076 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1122 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.8 MB.
+System memory in use after: 57.9 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1565.
+Total: 1.863000 ms (FindLiveObjects: 0.147400 ms CreateObjectMapping: 0.045800 ms MarkObjects: 1.590700 ms  DeleteObjects: 0.078100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/VirtualCilia/Prefabs/VirtualCilia.prefab
+  artifactKey: Guid(0ab13142c12df224b883e1aed0d6633e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Prefabs/VirtualCilia.prefab using Guid(0ab13142c12df224b883e1aed0d6633e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8560d5c87356ad30b701fd59a6bd338') in 0.502479 seconds
+  Import took 0.520013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.275146 seconds.
+  path: Assets/VirtualCilia/Scripts/VirtualCilia.cs
+  artifactKey: Guid(43595b133b3efae42beba1e29272a585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Scripts/VirtualCilia.cs using Guid(43595b133b3efae42beba1e29272a585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '388b6e00fe221bd01b4110510cd1706d') in 0.072879 seconds
+  Import took 0.093276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.092206 seconds.
+  path: Assets/VirtualCilia/Scripts/VirtualCilia.cs
+  artifactKey: Guid(43595b133b3efae42beba1e29272a585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Scripts/VirtualCilia.cs using Guid(43595b133b3efae42beba1e29272a585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac2152ef83c3129632bf9f382e57075d') in 0.051104 seconds
+  Import took 0.053653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.602796 seconds.
+  path: Assets/VirtualCilia/Scripts/VirtualCilia.cs
+  artifactKey: Guid(43595b133b3efae42beba1e29272a585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Scripts/VirtualCilia.cs using Guid(43595b133b3efae42beba1e29272a585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6577507b3d46c0cd17063dab5982bf3d') in 0.033336 seconds
+  Import took 0.035877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.146349 seconds.
+  path: Assets/VirtualCilia/Scripts/VirtualCilia.cs
+  artifactKey: Guid(43595b133b3efae42beba1e29272a585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Scripts/VirtualCilia.cs using Guid(43595b133b3efae42beba1e29272a585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dc81985462363b842b7127ad330d0ab') in 0.033303 seconds
+  Import took 0.036516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.681819 seconds.
+  path: Assets/VirtualCilia/Scripts/VirtualCilia.cs
+  artifactKey: Guid(43595b133b3efae42beba1e29272a585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Scripts/VirtualCilia.cs using Guid(43595b133b3efae42beba1e29272a585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb2d0e129d8efe9c2f1b0c4ba48532f0') in 0.050691 seconds
+  Import took 0.053375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.965380 seconds.
+  path: Assets/VirtualCilia/Scripts/VirtualCilia.cs
+  artifactKey: Guid(43595b133b3efae42beba1e29272a585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Scripts/VirtualCilia.cs using Guid(43595b133b3efae42beba1e29272a585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d59052a828372f34ca637162ca93b2e') in 0.021027 seconds
+  Import took 0.023489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.677467 seconds.
+  path: Assets/VirtualCilia/Scripts/VirtualCilia.cs
+  artifactKey: Guid(43595b133b3efae42beba1e29272a585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Scripts/VirtualCilia.cs using Guid(43595b133b3efae42beba1e29272a585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6066d25c353b0d8b385e379855cbb63b') in 0.031251 seconds
+  Import took 0.034315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.476129 seconds.
+  path: Assets/VirtualCilia/Scripts/VirtualCilia.cs
+  artifactKey: Guid(43595b133b3efae42beba1e29272a585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Scripts/VirtualCilia.cs using Guid(43595b133b3efae42beba1e29272a585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c375147598a56d8a70f035a5e0220ea7') in 0.030215 seconds
+  Import took 0.032757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.097028 seconds.
+  path: Assets/VirtualCilia/Scripts/VirtualCilia.cs
+  artifactKey: Guid(43595b133b3efae42beba1e29272a585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Scripts/VirtualCilia.cs using Guid(43595b133b3efae42beba1e29272a585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97f4b3302f76db173dafc919aa71aaeb') in 0.028814 seconds
+  Import took 0.031480 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001100 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.979 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.0 MB.
+System memory in use after: 61.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1575.
+Total: 1.674400 ms (FindLiveObjects: 0.155300 ms CreateObjectMapping: 0.044000 ms MarkObjects: 1.423300 ms  DeleteObjects: 0.050500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 91.437287 seconds.
+  path: Assets/VirtualCilia/Graphical Improvments/Materials/Textures/Glossy plastic Mat.mat
+  artifactKey: Guid(71df88791d98f9649ba7d94a9a31c1ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Graphical Improvments/Materials/Textures/Glossy plastic Mat.mat using Guid(71df88791d98f9649ba7d94a9a31c1ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c62bb6c166cb4d877ad249468c059b3') in 0.205694 seconds
+  Import took 0.211847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.066139 seconds.
+  path: Assets/VirtualCilia/Graphical Improvments/Materials/Textures/Dark Plastic.mat
+  artifactKey: Guid(0e3952d72b329d346b4c05bb5e36d78d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Graphical Improvments/Materials/Textures/Dark Plastic.mat using Guid(0e3952d72b329d346b4c05bb5e36d78d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52745bd848c65491eb73489dc49f9da5') in 0.070830 seconds
+  Import took 0.073423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.110839 seconds.
+  path: Assets/VirtualCilia/Graphical Improvments/Materials/Textures/cilia_6_3_18_Print_Mat_AlbedoTransparency.png
+  artifactKey: Guid(5e0db9bb3cc55dd4491b0334c22b877b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Graphical Improvments/Materials/Textures/cilia_6_3_18_Print_Mat_AlbedoTransparency.png using Guid(5e0db9bb3cc55dd4491b0334c22b877b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3343d825160073f7ab4d3c0aa6abc27e') in 0.180053 seconds
+  Import took 0.182806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.090518 seconds.
+  path: Assets/VirtualCilia/Graphical Improvments/Materials/Textures/cilia_6_3_18_Glass_Mat_AlbedoTransparency.png
+  artifactKey: Guid(4f2fbb972f5f86f489731b5cb309ad0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Graphical Improvments/Materials/Textures/cilia_6_3_18_Glass_Mat_AlbedoTransparency.png using Guid(4f2fbb972f5f86f489731b5cb309ad0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6f3f9afbf7d73ce19a87d496aab787d') in 0.047409 seconds
+  Import took 0.049982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025689 seconds.
+  path: Assets/VirtualCilia/Scripts/RPMAnimate.cs
+  artifactKey: Guid(e8b86c2367b5dc54ead6383ebf35a269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Scripts/RPMAnimate.cs using Guid(e8b86c2367b5dc54ead6383ebf35a269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa151d4a70a00ccfb576056f3867b1f7') in 0.038228 seconds
+  Import took 0.040822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.181933 seconds.
+  path: Assets/VirtualCilia/Materials/Emissive1.mat
+  artifactKey: Guid(72cf082e6ff5eae4cb0f0ca48880db94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Materials/Emissive1.mat using Guid(72cf082e6ff5eae4cb0f0ca48880db94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '547dc5ea95d17cfca7d5dc3a2ca4876d') in 0.077898 seconds
+  Import took 0.080521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.092770 seconds.
+  path: Assets/VirtualCilia/Annimations/Fan_Blades.controller
+  artifactKey: Guid(de1680aaa396b724cb5766aa593a4667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Annimations/Fan_Blades.controller using Guid(de1680aaa396b724cb5766aa593a4667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f0339c0aacd0b73f096549e64e0a427') in 0.041669 seconds
+  Import took 0.044260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.102480 seconds.
+  path: Assets/VirtualCilia/Graphical Improvments/Materials/Textures/cilia_6_3_18_Glass_Mat_AO.png
+  artifactKey: Guid(6e20c3f5f6b1a7e43948b67de038c7c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Graphical Improvments/Materials/Textures/cilia_6_3_18_Glass_Mat_AO.png using Guid(6e20c3f5f6b1a7e43948b67de038c7c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1ec338a651d20c4e8b23b47d764c539') in 0.107798 seconds
+  Import took 0.110322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.088760 seconds.
+  path: Assets/VirtualCilia/Annimations/FanStop.anim
+  artifactKey: Guid(0b88dfa9f63da4045a283b927d4476bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Annimations/FanStop.anim using Guid(0b88dfa9f63da4045a283b927d4476bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2e64d569d75068a9bc5bb8af68714ae') in 0.068058 seconds
+  Import took 0.070833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.197423 seconds.
+  path: Assets/VirtualCilia/Graphical Improvments
+  artifactKey: Guid(310fcf584a5121648b10938a084ebf6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Graphical Improvments using Guid(310fcf584a5121648b10938a084ebf6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13d4adcaf0a5b474fa44b46d5025fb20') in 0.022309 seconds
+  Import took 0.024642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026958 seconds.
+  path: Assets/VirtualCilia/Materials/Emissive5.mat
+  artifactKey: Guid(6f704813ec0db124bbbfd90a939ab44c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Materials/Emissive5.mat using Guid(6f704813ec0db124bbbfd90a939ab44c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a7b3b3b69580199d712602efd4d7b18') in 0.046911 seconds
+  Import took 0.049453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.146023 seconds.
+  path: Assets/VirtualCilia/Graphical Improvments/Materials/Textures/cilia_6_3_18_Print_Mat_AO.png
+  artifactKey: Guid(1cc620b382b89ef45a015dfc73b95643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Graphical Improvments/Materials/Textures/cilia_6_3_18_Print_Mat_AO.png using Guid(1cc620b382b89ef45a015dfc73b95643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ab49e4e7fafbb9a79869cb38a01e3de') in 0.061154 seconds
+  Import took 0.063825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031479 seconds.
+  path: Assets/VirtualCilia/Models
+  artifactKey: Guid(2090485972fb40b42a3269215d9b0d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Models using Guid(2090485972fb40b42a3269215d9b0d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c4999b3458b0a7b68b05d4f326434c7') in 0.047790 seconds
+  Import took 0.049929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.063195 seconds.
+  path: Assets/VirtualCilia/Materials/Emissive3.mat
+  artifactKey: Guid(408de0ada9d6e2942ac0491126a9d9d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Materials/Emissive3.mat using Guid(408de0ada9d6e2942ac0491126a9d9d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dc337c893f927c0dd6dff2905ba4af2') in 0.052570 seconds
+  Import took 0.055229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040043 seconds.
+  path: Assets/VirtualCilia/Graphical Improvments/Materials/Textures
+  artifactKey: Guid(3e96ee81604ac0344ac9c15ac0f4a053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Graphical Improvments/Materials/Textures using Guid(3e96ee81604ac0344ac9c15ac0f4a053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf40d075db450338bc6ac362c1378c0c') in 0.030954 seconds
+  Import took 0.033474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.055076 seconds.
+  path: Assets/VirtualCilia/Annimations/FanSpin.anim
+  artifactKey: Guid(adefb7e28c9a35249bef936a47bd6290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Annimations/FanSpin.anim using Guid(adefb7e28c9a35249bef936a47bd6290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b21c5d346599fdaac1ca923a62f53004') in 0.029533 seconds
+  Import took 0.031820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.093142 seconds.
+  path: Assets/VirtualCilia/Graphical Improvments/Materials/Textures/white plastic_normal.png
+  artifactKey: Guid(9079230d8339633429aa70b610b1c161) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Graphical Improvments/Materials/Textures/white plastic_normal.png using Guid(9079230d8339633429aa70b610b1c161) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3df3a124f2bab44e1906e381a3e38c5b') in 0.098516 seconds
+  Import took 0.103065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.053458 seconds.
+  path: Assets/VirtualCilia/Materials
+  artifactKey: Guid(d42812758bc79b14a945106794c3aec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Materials using Guid(d42812758bc79b14a945106794c3aec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07d950fe0a2257644e104dd636be1d5c') in 0.030375 seconds
+  Import took 0.032797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.062291 seconds.
+  path: Assets/VirtualCilia/Graphical Improvments/Materials/Textures/cilia_6_3_18_Print_Mat_MetallicSmoothness.png
+  artifactKey: Guid(171e4a5b487b3b846a94960c7bebe595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Graphical Improvments/Materials/Textures/cilia_6_3_18_Print_Mat_MetallicSmoothness.png using Guid(171e4a5b487b3b846a94960c7bebe595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a082485234a605a2fa1139bbcfdf4c0') in 0.059880 seconds
+  Import took 0.063666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.151304 seconds.
+  path: Assets/VirtualCilia/Graphical Improvments/Materials/Textures/cilia_6_3_18_Shiny_plastic_Mat_Normal.png
+  artifactKey: Guid(d62a628592612d547bc3dbc0925506d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Graphical Improvments/Materials/Textures/cilia_6_3_18_Shiny_plastic_Mat_Normal.png using Guid(d62a628592612d547bc3dbc0925506d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26ef97335d9b24dd78c62630db6ac5e9') in 0.103308 seconds
+  Import took 0.107259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.111169 seconds.
+  path: Assets/VirtualCilia/Graphical Improvments/Materials/Textures/cilia_6_3_18_Shiny_plastic_Mat_MetallicSmoothness.png
+  artifactKey: Guid(a3e18d855d31eb14c886fcb7d35e60ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Graphical Improvments/Materials/Textures/cilia_6_3_18_Shiny_plastic_Mat_MetallicSmoothness.png using Guid(a3e18d855d31eb14c886fcb7d35e60ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5391eb78849375bc186ab1e9e469f3c2') in 0.052259 seconds
+  Import took 0.056375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.132264 seconds.
+  path: Assets/VirtualCilia/Materials/Emissive4.mat
+  artifactKey: Guid(97d8849d37d33fa49bf3cf6aaeedc234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Materials/Emissive4.mat using Guid(97d8849d37d33fa49bf3cf6aaeedc234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f3915aa05c3a54ada3dee53f53d3ab7') in 0.064550 seconds
+  Import took 0.067090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.061892 seconds.
+  path: Assets/VirtualCilia/Materials/Emissive6.mat
+  artifactKey: Guid(ac335ec73014c3b458fbfe346286ab04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Materials/Emissive6.mat using Guid(ac335ec73014c3b458fbfe346286ab04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd694658cc2b4f669f8b22fd73f862556') in 0.099900 seconds
+  Import took 0.102376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.108300 seconds.
+  path: Assets/VirtualCilia/Scripts/CiliaLight.cs
+  artifactKey: Guid(760965e6913b92846a0c35add4c68e75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Scripts/CiliaLight.cs using Guid(760965e6913b92846a0c35add4c68e75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b27a915f6e7a2197c8d228408faf0ce') in 0.097292 seconds
+  Import took 0.099851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.187111 seconds.
+  path: Assets/VirtualCilia/Graphical Improvments/Materials/Textures/cilia_6_3_18_Print_Mat_Normal.png
+  artifactKey: Guid(581fb0fcb348a8446a8c37d3113c374d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Graphical Improvments/Materials/Textures/cilia_6_3_18_Print_Mat_Normal.png using Guid(581fb0fcb348a8446a8c37d3113c374d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1026aa5a611ba8ddb624615e908555e') in 0.086757 seconds
+  Import took 0.090627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.095543 seconds.
+  path: Assets/VirtualCilia/Annimations
+  artifactKey: Guid(df1519b00479ee447a099224349f9ed6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Annimations using Guid(df1519b00479ee447a099224349f9ed6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b742c1a5968f696218236220907b15c') in 0.034913 seconds
+  Import took 0.037423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.078905 seconds.
+  path: Assets/VirtualCilia/Graphical Improvments/Materials/Textures/white plastic_specular.png
+  artifactKey: Guid(af76b36416c116a47b5f6a377c4bed42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Graphical Improvments/Materials/Textures/white plastic_specular.png using Guid(af76b36416c116a47b5f6a377c4bed42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70cfc45acb8f881fa315472a67746fad') in 0.045694 seconds
+  Import took 0.048423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026229 seconds.
+  path: Assets/VirtualCilia/Materials/CiliaBlack.mat
+  artifactKey: Guid(7b692c71939366a4bb59673ad774b22c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Materials/CiliaBlack.mat using Guid(7b692c71939366a4bb59673ad774b22c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd98f6181a6265931bff2264393c96f79') in 0.073445 seconds
+  Import took 0.075802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.131378 seconds.
+  path: Assets/VirtualCilia/Graphical Improvments/Materials/Textures/black plastic_diffuse.png
+  artifactKey: Guid(aad977e922d5b344b989191307a36514) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Graphical Improvments/Materials/Textures/black plastic_diffuse.png using Guid(aad977e922d5b344b989191307a36514) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '801c35013111073b565253edf8f6f7b0') in 0.120008 seconds
+  Import took 0.122683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.107565 seconds.
+  path: Assets/VirtualCilia/Graphical Improvments/Materials/Textures/cilia_6_3_18_Shiny_plastic_Mat_AlbedoTransparency.png
+  artifactKey: Guid(990ae5dcaf8c0bd489e4b36f69bb0069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Graphical Improvments/Materials/Textures/cilia_6_3_18_Shiny_plastic_Mat_AlbedoTransparency.png using Guid(990ae5dcaf8c0bd489e4b36f69bb0069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d57c1b9b52b4286f3eae921a2b05b22') in 0.062050 seconds
+  Import took 0.064574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.049684 seconds.
+  path: Assets/VirtualCilia/Graphical Improvments/Materials
+  artifactKey: Guid(28999829fbc207b49a35e5c2fc2e1a7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Graphical Improvments/Materials using Guid(28999829fbc207b49a35e5c2fc2e1a7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac8aa3fd90de298de8c2d11806f6e4f6') in 0.098231 seconds
+  Import took 0.100695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.072422 seconds.
+  path: Assets/VirtualCilia/Materials/Emissive2.mat
+  artifactKey: Guid(17e7a015ca2a8f343953d2a69479c364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Materials/Emissive2.mat using Guid(17e7a015ca2a8f343953d2a69479c364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e129160debf8ff522a35c28abb0ab54e') in 0.093220 seconds
+  Import took 0.095895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.481644 seconds.
+  path: Assets/VirtualCilia/Graphical Improvments/Materials/Textures/cilia_6_3_18_Shiny_plastic_Mat_AO.png
+  artifactKey: Guid(01773ff71a4bd7b44bdbd649d578b393) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Graphical Improvments/Materials/Textures/cilia_6_3_18_Shiny_plastic_Mat_AO.png using Guid(01773ff71a4bd7b44bdbd649d578b393) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fa4df80c74ee5c30050f1318627a2f0') in 0.063069 seconds
+  Import took 0.065819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.062379 seconds.
+  path: Assets/VirtualCilia/Graphical Improvments/Materials/Textures/3D Print Mat.mat
+  artifactKey: Guid(2d1c1c75ff180a748a38108d2ec75e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Graphical Improvments/Materials/Textures/3D Print Mat.mat using Guid(2d1c1c75ff180a748a38108d2ec75e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b47e9e8de9bd782f8f2c5ce55942f01e') in 0.110582 seconds
+  Import took 0.116329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.090730 seconds.
+  path: Assets/VirtualCilia/Graphical Improvments/Materials/Textures/cilia_6_3_18_Glass_Mat_Normal.png
+  artifactKey: Guid(c2e6f3b60d4ed7d49bfeb69ea321d174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Graphical Improvments/Materials/Textures/cilia_6_3_18_Glass_Mat_Normal.png using Guid(c2e6f3b60d4ed7d49bfeb69ea321d174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab47d4ab1aab01f9760bd5302b54cb39') in 0.046822 seconds
+  Import took 0.049408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.064714 seconds.
+  path: Assets/VirtualCilia/Graphical Improvments/Materials/Textures/Plix Glass Mat.mat
+  artifactKey: Guid(19eabc47705d61346841f56a5a15474b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Graphical Improvments/Materials/Textures/Plix Glass Mat.mat using Guid(19eabc47705d61346841f56a5a15474b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7f2791f2efef1197f245c18f76e72b1') in 0.074065 seconds
+  Import took 0.077187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029542 seconds.
+  path: Assets/VirtualCilia/Graphical Improvments/Models
+  artifactKey: Guid(ba068ff9d7593ee4aac4a01a9ea6ccaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Graphical Improvments/Models using Guid(ba068ff9d7593ee4aac4a01a9ea6ccaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be9b63e9ea0505f3d8be3392db825eeb') in 0.160005 seconds
+  Import took 0.162341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.317211 seconds.
+  path: Assets/VirtualCilia/Graphical Improvments/Materials/Textures/cilia_6_3_18_Glass_Mat_MetallicSmoothness.png
+  artifactKey: Guid(20162bcb2a292a04db3fce9a4f52bb91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VirtualCilia/Graphical Improvments/Materials/Textures/cilia_6_3_18_Glass_Mat_MetallicSmoothness.png using Guid(20162bcb2a292a04db3fce9a4f52bb91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4610fb4ba7edea2a19662bcc5f8fadd5') in 0.084196 seconds
+  Import took 0.087031 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
